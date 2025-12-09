@@ -607,3 +607,5 @@ The package procedures and functions were executed through anonymous PL/SQL bloc
 This phase made the Visitor Entry Management System **smart, automated, and operationally efficient**, enabling real-time monitoring, accurate tracking, and improved workflow intelligence.
 
 ```
+#   2 8 0 5 7 _ F I N A l _ E X A M _ c a p s t o n e -  
+ 
