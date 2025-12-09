@@ -324,27 +324,9 @@ Using SQL Developer’s GUI and the built-in SQL Worksheet, the following were c
 
 ## 💻 SQL Commands Executed
 
-Below are the SQL commands run inside SQL Developer to configure the PDB environment:
 
-```sql
--- Switch into the newly created PDB
-ALTER SESSION SET CONTAINER = wed_28057_Molly_Visitor_PDB;
 
--- Create project schema user
-CREATE USER molly28057 IDENTIFIED BY molly;
-
--- Grant basic connection privileges
-GRANT CONNECT, RESOURCE TO molly28057;
-
--- Grant permission for table, sequence, and view creation
-GRANT CREATE SESSION TO molly28057;
-GRANT CREATE TABLE TO molly28057;
-GRANT CREATE SEQUENCE TO molly28057;
-GRANT CREATE VIEW TO molly28057;
-
--- Optional elevated access for development convenience
-GRANT UNLIMITED TABLESPACE TO molly28057;
-```
+``
 # 🧱 Phase V: Table Implementation and Data Insertion
 
 ## 🎯 Objective
