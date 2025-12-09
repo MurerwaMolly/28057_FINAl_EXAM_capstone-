@@ -1,7 +1,5 @@
 # 📘 Phase I & Phase II – Visitor Entry Management System  
-### *Complete MIS Documentation (Markdown Version)*  
 
----
 
 # 📘 **Phase I: System Analysis & Requirements (MIS)**  
 
