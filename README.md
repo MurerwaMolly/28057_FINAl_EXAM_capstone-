@@ -274,7 +274,7 @@ The goal is to build a **normalized, constraint-driven relational structure** th
 ---
 
 # ✅ End of Phase III (Logical Model Design)
-```
+``
 # 🏗️ Phase IV: Database Creation and Access Setup (via SQL Developer)
 
 ## 🎯 Objective
@@ -464,7 +464,7 @@ The Visitor Entry Management Database is now:
 
 This completes **Phase V**.
 
-```
+``
 # 🔧 Phase VI: PL/SQL Programming & Database Interaction
 
 ## 🎯 Objective
